@@ -16,6 +16,8 @@ FitPulse is an AI-powered fitness tracking application that uses computer vision
 | 🔊 Audio Feedback              | Plays sound on every completed rep             |
 | 📄 Excel Data Logging          | Saves workout session history automatically    |
 | 📊 Performance Graphs          | Displays workout analytics after session       |
+| 📷 Live Camera Tracking        | Track workouts directly using webcam           |
+| 📹 Video File Support          | Analyze workouts from recorded video           |
 | 🖼️ PNG Graph Export           | Saves graphs as image files                    |
 | 🎨 Clean UI                    | Simple and user-friendly interface             |
 
@@ -42,19 +44,34 @@ FitPulse is an AI-powered fitness tracking application that uses computer vision
 
 ```bash
 git clone https://github.com/KrishBharadwaj5678/FitPulse.git
+```
+
+### 2️⃣ Navigate to project directory
+
+```bash
 cd FitPulse
 ```
 
-### 2️⃣ Install Dependencies
+### 3️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## ▶️ Run the App
+## 4️⃣ Run the App
 
-```bash id="kieqc3"
+### 📹 Video Tracking Mode
+
+```bash
 python main.py
+```
+
+#### OR
+
+### 📷 Live Camera Mode
+
+```bash
+python liveTracking.py
 ```
 
 ---
