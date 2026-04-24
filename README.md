@@ -2,6 +2,8 @@
 
 FitPulse is an AI-powered fitness tracking application that uses computer vision to detect push-ups in real time, count repetitions, track workout pace, save workout history to Excel, and generate performance graphs.
 
+![FitPulseDemo](https://github.com/KrishBharadwaj5678/FitPulse/raw/main/FitPulseDemo.gif)
+
 ## 🚀 Features
 
 | 🔥 Feature                     | 📌 Description                                 |
