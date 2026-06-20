@@ -1,3 +1,5 @@
+[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+
 # 🏋️‍♂️ FitPulse 
 
 FitPulse is an AI-powered fitness tracking application that uses computer vision to detect push-ups in real time, count repetitions, track workout pace, save workout history to Excel, and generate performance graphs.
@@ -6,7 +8,7 @@ FitPulse is an AI-powered fitness tracking application that uses computer vision
 
 ## 🚀 Features
 
-| 🔥 Feature                     | 📌 Description                                 |
+|      Feature                     |  Description                                 |
 | ------------------------------ | ---------------------------------------------- |
 | 🎯 Real-time Push-up Detection | Detects push-up movement using pose estimation |
 | 🔢 Automatic Rep Counting      | Counts completed push-ups accurately           |
@@ -25,7 +27,7 @@ FitPulse is an AI-powered fitness tracking application that uses computer vision
 
 ## 🛠 Tech Stack
 
-| 💻 Technology            | ⚙️ Purpose                              |
+|  Technology              |   Purpose                              |
 | ------------------------ | --------------------------------------- |
 | 🐍 Python                | Core programming language               |
 | 🤖 Ultralytics YOLO Pose | Human pose detection model              |
@@ -73,15 +75,3 @@ python main.py
 ```bash
 python liveTracking.py
 ```
-
----
-
-## Contributing 🤝
-
-Want to contribute? Here's how:
-
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
